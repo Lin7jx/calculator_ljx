@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Calculator", "Calculator\Calculator.vcxproj", "{FB7735B8-4C38-459D-855A-F602AD7829AA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "计算器", "计算器\计算器.vdproj", "{B661FBF8-288A-424C-96BE-DEF75CFA99FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB7735B8-4C38-459D-855A-F602AD7829AA}.Debug|x64.ActiveCfg = Debug|x64
+		{FB7735B8-4C38-459D-855A-F602AD7829AA}.Debug|x64.Build.0 = Debug|x64
+		{FB7735B8-4C38-459D-855A-F602AD7829AA}.Debug|x86.ActiveCfg = Debug|Win32
+		{FB7735B8-4C38-459D-855A-F602AD7829AA}.Debug|x86.Build.0 = Debug|Win32
+		{FB7735B8-4C38-459D-855A-F602AD7829AA}.Release|x64.ActiveCfg = Release|x64
+		{FB7735B8-4C38-459D-855A-F602AD7829AA}.Release|x64.Build.0 = Release|x64
+		{FB7735B8-4C38-459D-855A-F602AD7829AA}.Release|x86.ActiveCfg = Release|Win32
+		{FB7735B8-4C38-459D-855A-F602AD7829AA}.Release|x86.Build.0 = Release|Win32
+		{B661FBF8-288A-424C-96BE-DEF75CFA99FD}.Debug|x64.ActiveCfg = Debug
+		{B661FBF8-288A-424C-96BE-DEF75CFA99FD}.Debug|x86.ActiveCfg = Debug
+		{B661FBF8-288A-424C-96BE-DEF75CFA99FD}.Release|x64.ActiveCfg = Release
+		{B661FBF8-288A-424C-96BE-DEF75CFA99FD}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8632B5AF-732D-495E-A3AE-0939874F5BBB}
+	EndGlobalSection
+EndGlobal
